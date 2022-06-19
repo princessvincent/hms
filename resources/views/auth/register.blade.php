@@ -1,5 +1,5 @@
-@extends((!isset(Auth::user()->id))? 'layouts.app': ((Auth::user()->role_as == 1) ? 'layouts.head' : 'layouts.header')) 
-
+{{-- @extends((!isset(Auth::user()->id))? 'layouts.app': ((Auth::user()->role_as == 1) ? 'layouts.head' : 'layouts.header'))  --}}
+@extends('layouts.app')
 @section('content')
     <div class="container">
         <div class="row justify-content-center">
