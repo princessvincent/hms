@@ -15,3 +15,7 @@ Student can only login, they are not allowed to register themselves
 They can view attendance but can not edit or delete it, they can rate meals,
 they can view information relaese but can not edit or delete it
 and so many other amazing features.
+
+Visit the Site and check it out
+
+Hosted link: hms.priscaebuka.com.ng
